@@ -42,10 +42,6 @@ namespace Maze.Solver
             }
             robot.HaltAndCatchFire();
             // Trivial sample algorithm that can just move right
-
-
-
-
         }
 
     }
