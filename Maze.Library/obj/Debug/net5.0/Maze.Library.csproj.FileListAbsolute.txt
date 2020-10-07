@@ -1,0 +1,12 @@
+C:\Users\Stani\Source\Repos\robot-maze-quiz-StanislavSemashko\Maze.Library\bin\Debug\net5.0\Maze.Library.deps.json
+C:\Users\Stani\Source\Repos\robot-maze-quiz-StanislavSemashko\Maze.Library\bin\Debug\net5.0\Maze.Library.dll
+C:\Users\Stani\Source\Repos\robot-maze-quiz-StanislavSemashko\Maze.Library\bin\Debug\net5.0\ref\Maze.Library.dll
+C:\Users\Stani\Source\Repos\robot-maze-quiz-StanislavSemashko\Maze.Library\bin\Debug\net5.0\Maze.Library.pdb
+C:\Users\Stani\Source\Repos\robot-maze-quiz-StanislavSemashko\Maze.Library\obj\Debug\net5.0\Maze.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stani\Source\Repos\robot-maze-quiz-StanislavSemashko\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfoInputs.cache
+C:\Users\Stani\Source\Repos\robot-maze-quiz-StanislavSemashko\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfo.cs
+C:\Users\Stani\Source\Repos\robot-maze-quiz-StanislavSemashko\Maze.Library\obj\Debug\net5.0\Maze.Library.csproj.CoreCompileInputs.cache
+C:\Users\Stani\Source\Repos\robot-maze-quiz-StanislavSemashko\Maze.Library\obj\Debug\net5.0\Maze.Library.dll
+C:\Users\Stani\Source\Repos\robot-maze-quiz-StanislavSemashko\Maze.Library\obj\Debug\net5.0\ref\Maze.Library.dll
+C:\Users\Stani\Source\Repos\robot-maze-quiz-StanislavSemashko\Maze.Library\obj\Debug\net5.0\Maze.Library.pdb
+C:\Users\Stani\source\repos\robot-maze-quiz-StanislavSemashko\Maze.Library\obj\Debug\net5.0\Maze.Library.csprojAssemblyReference.cache
